@@ -1,3 +1,2 @@
 # angularms
 
-ang
